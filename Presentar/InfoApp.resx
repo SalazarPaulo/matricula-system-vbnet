@@ -1,0 +1,246 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="Label3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Label3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <metadata name="Label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>En la tienda “DisTinto” se necesita contar con una base de datos que detalla todos los vinos que vendemos. Ya que se ha hecho
+un proceso de remodelación y se quiere digitalizar toda la parte de registros y ventas de la tienda. De los vinos necesitamos
+registrar un código de vino, su nombre, la denominación; si es un vino joven o con crianza, su país y región de origen,
+como a su vez el precio de compra y venta, además de sus características; el tipo, elaboración, color y variedad de uva.
+Contamos con la información de nuestros empleados, su cédula, el nombre, salario, teléfono y correo. Que son los encargados en
+vender los vinos y responder las consultas de los clientes. Un empleado puede vender varios vinos y un vino lo puede vender varios empleados.
+De los clientes recolectamos los datos para futuras compras, por eso tenemos su cédula, nombre, apellidos, dirección, correo y teléfono.
+Un cliente puede comprar varios de nuestros vinos y un vino lo pueden comprar varios clientes.
+
+Para cada venta el personal se encarga de registrar dicha compra, y debe registrar la fecha de cuando se haga la venta, incluyendo el monto de esa venta.
+También contamos con la información de nuestros proveedores, quienes nos distribuyen los vinos. Contamos con su RUC de identificación,
+a su vez el nombre, la dirección, el teléfono y correo para contactarlos. Varios de nuestros proveedores nos proveen diferentes vinos.
+Finalmente, lo que se quiere lograr con el desarrollo de este proyecto es mejorar la organización y digitalización de la empresa, para así conseguir una
+mejor calidad de servicio y organización de sus datos para evitar errores en los registros de productos, ganancias, clientes, entre otros.
+</value>
+  </data>
+  <data name="Label7.Text" xml:space="preserve">
+    <value>Objetivo General:
+Proporcionar una plataforma a los usuarios que brinde una experiencia excepcional, 
+a su vez garantice la máxima satisfacción de los clientes. Esto se logrará mediante
+la implementación de criterios de excelencia en el servicio, ofreciendo una amplia 
+gama selección de magníficos vinos de diversos precios y variedades. 
+
+Objetivos Específicos
+- Permitir a los usuarios registrarse y validar su información para acceder a la
+aplicación y personalizar su experiencia con los eventos que proporciona Visual Basic.
+- Permitir a los usuarios realizar su compra de vino a través de la aplicación de una forma rápida y segura.
+- Proporcionar a los usuarios la posibilidad de explorar una amplia base de datos de vinos y descubrir nuevas opciones. 
+Esto puede incluir funciones como la búsqueda avanzada por diferentes criterios (variedad de uva, región, precio, etc.), 
+recomendaciones personalizadas basadas en las preferencias del usuario, información sobre marcas y bodegas, 
+y comentarios de expertos.
+
+</value>
+  </data>
+</root>
